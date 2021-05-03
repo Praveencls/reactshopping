@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Thumb from './../../Thumb';
+import Thumb from './../../thumb';
 
 class CartProduct extends Component {
   render() {
