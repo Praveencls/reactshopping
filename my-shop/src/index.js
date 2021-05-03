@@ -7,9 +7,10 @@ import Root from './Root';
 import './index.scss';
 
 ReactDOM.render(
-  <div>
-  <Root></Root>
-    <App /></div>
+  
+  <Root>
+    <App />
+    </Root>
   ,
   document.getElementById('root')
 );

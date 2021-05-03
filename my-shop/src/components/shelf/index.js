@@ -4,6 +4,7 @@ import Filter from './filter';
 import ShelfHeader from './shelfheader';
 import Clearfix from '../clearfix';
 import Spinner from '../spinner';
+import './style.scss';
 
 class Shelf extends Component {
   render() {
